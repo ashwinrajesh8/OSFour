@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ashwi/Documents/github/OSFour/prog4.cpp
+iostream
+-
+fstream
+-
+vector
+-
+deque
+-
+prog4_MRU.h
+C:/Users/Ashwi/Documents/github/OSFour/prog4_MRU.h
+prog4_LRUclean.h
+C:/Users/Ashwi/Documents/github/OSFour/prog4_LRUclean.h
+prog4_MyOwn.h
+C:/Users/Ashwi/Documents/github/OSFour/prog4_MyOwn.h
+
+C:/Users/Ashwi/Documents/github/OSFour/prog4_LRUclean.h
+
+C:/Users/Ashwi/Documents/github/OSFour/prog4_MRU.h
+
+C:/Users/Ashwi/Documents/github/OSFour/prog4_MyOwn.h
+
