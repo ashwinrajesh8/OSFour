@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Ashwi/Documents/github/OSFour/inputOne.txt">
+			<Option target="OSFour"/>
+		</Unit>
 		<Unit filename="C:/Users/Ashwi/Documents/github/OSFour/prog4.cpp">
 			<Option target="OSFour"/>
 		</Unit>
