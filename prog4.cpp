@@ -122,13 +122,11 @@ void test_case(string fname, int count)
     for (int i = 0; i < count; i++)
     {
         pages_FIFO.push_back(0);
-        /*
-                 Uncomment the appropriate line(s) to test your program
 
-        pages_LRU_clean.push_back(0);
+        pages_LRUclean.push_back(0);
         pages_MRU.push_back(0);
         pages_MyOwn.push_back(0);
-        */
+
     }
 
     ifstream ifile;
